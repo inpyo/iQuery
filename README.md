@@ -35,4 +35,7 @@
 
 ### Contact
 - Email: inpyo.kr@gmail.com
-- Website: http://inpyo.kr
+- Website: http://www.inpyo.kr
+
+### License
+- [MIT License](https://opensource.org/licenses/MIT)
