@@ -3,6 +3,7 @@
 ### iQuery Magnifier
 
 ##### Version History
+- 2016/03/24 - Version 1.0.2 released
 - 2016/03/23 - Version 1.0.1 released
 - 2016/03/22 - Version 1.0.0 released
 
@@ -24,7 +25,6 @@
     imgOverlayOffsetX	: Overlay image left offset
     imgOverlayOffsetY	: Overlay image top offset
     magnifierWidth		: Magnifier window width
-    magnifierHeight		: Magnifier window height
     magnifierBdWidth	: Magnifier window border width
     magnifierBdColor	: Magnifier window border color
     zoomScale			: Zoom-in-out scale
